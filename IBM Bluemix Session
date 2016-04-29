@@ -16,7 +16,14 @@ Capabilities--Architecture(Role of components)
 Development Models-
 -Cloud Foundry(used in Bluemix)-CLI(command line interface)
 -Docker based Container--Middleware(open platform for devlopers and sysadm to build, ship and run distributed apps)
+deploy and manage distributed cloud workloads in a Hybrid environment packaged as Docker Container.
 -Virtual Machine(Openstack)
+Includes the application, its dependencies/middlewares and a guest OS
+Multiple VMS can run on single m/c
+
+
+Containers Vs VMs
+
   
 
 https://developer.ibm.com/dwcourses/courses/IBM/BLUEMIXCERT01/BLUEMIXCERT01/about
