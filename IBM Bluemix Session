@@ -21,9 +21,13 @@ deploy and manage distributed cloud workloads in a Hybrid environment packaged a
 Includes the application, its dependencies/middlewares and a guest OS
 Multiple VMS can run on single m/c
 
+Bluemix and PaaS architecture
 
-Containers Vs VMs
+Application Development
+
+Bluemix and cloud foundry
+
 
   
-
+Course Name: Cloud Application Developer Certification
 https://developer.ibm.com/dwcourses/courses/IBM/BLUEMIXCERT01/BLUEMIXCERT01/about
