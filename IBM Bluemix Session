@@ -1,3 +1,22 @@
 IBM Bluemix Session In Infosys:
 
 Goal:  How to use IBM cloud services
+
+Service Offerings--
+-Infrastructure setup(Infrastructure as a service IaaS)
+  Applications, Data, Runtime, Middleware, O/S
+  IBM provides SOFTLAY-R as IaaS
+-Platform as a Service(PaaS)-Bluemix
+  Applications, Data
+-Software as a Service(SaaS)
+IBM provides almost all the software services such as for Data-NoSQL,MongoDB
+Watson
+
+Capabilities--Architecture(Role of components)
+Development Models-
+-Cloud Foundry(used in Bluemix)-CLI(command line interface)
+-Docker based Container--Middleware(open platform for devlopers and sysadm to build, ship and run distributed apps)
+-Virtual Machine(Openstack)
+  
+
+https://developer.ibm.com/dwcourses/courses/IBM/BLUEMIXCERT01/BLUEMIXCERT01/about
