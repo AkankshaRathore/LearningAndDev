@@ -1,4 +1,5 @@
 Using Cloud Foundry created 1 Web app
+
 >set http_proxy=10.68.248.34:80
 >cf api https://api.ng.bluemix.net
 >cf l
@@ -21,3 +22,19 @@ OK
 
 $ cf push
 #####################################
+
+If you have single space it will open it directly
+
+>cf help space
+>cf t //without any arg means just viewing info
+>cf t -o org_name//organization-MySpace
+>cf org AkankshaR
+>cf s //it will show the space in org
+>cf apps //it will show the apps in the space
+>cf create-space space-name//MySpace Make sure you should be in an org
+>cf t -s newspace-name//
+>cf spaces//View all spaces
+>cf services//
+>cf marketplace//all servies provided by IBM and third party services
+>cf cs (marketplace)service-name shared service-name
+
