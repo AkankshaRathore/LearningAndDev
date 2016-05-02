@@ -1,0 +1,23 @@
+Using Cloud Foundry created 1 Web app
+>set http_proxy=10.68.248.34:80
+>cf api https://api.ng.bluemix.net
+>cf l
+do the login using your email
+
+######################################
+$ cd [my-app-directory]
+$ cf api api.[my-cloudfoundry].com
+Setting api endpoint to https://api.[my-cloudfoundry].com...
+OK
+
+$ cf login
+API endpoint: https://api.[my-cloudfoundry].com
+
+Email> [my-email]
+
+Password> [my-password]
+Authenticating...
+OK
+
+$ cf push
+#####################################
