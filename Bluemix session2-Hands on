@@ -49,3 +49,4 @@ cf push appName -p warFile name
 
 
 Use of Auto-scaling-bing services with app
+Load testing
