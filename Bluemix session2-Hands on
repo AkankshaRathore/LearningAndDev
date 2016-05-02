@@ -38,3 +38,11 @@ If you have single space it will open it directly
 >cf marketplace//all servies provided by IBM and third party services
 >cf cs (marketplace)service-name shared service-name
 
+Deploy the app
+cf push appName -p warFile name
+
+>cf push DaysDone -p JavaCloundantApp.war -m 512M --no-manifest --no-start
+> cf bs appName serviceName
+>cf start appName
+>cf restage appName
+>cf cs//create service
