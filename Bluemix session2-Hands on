@@ -46,3 +46,6 @@ cf push appName -p warFile name
 >cf start appName
 >cf restage appName
 >cf cs//create service
+
+
+Use of Auto-scaling-bing services with app
