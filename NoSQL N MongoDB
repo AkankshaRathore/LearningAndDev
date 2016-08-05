@@ -2,7 +2,7 @@
 Database-
 Structured-Email
 Semi-Structured-XML tags, JSON
-Unstructured-
+Unstructured-Log data-NoSQL
 
 Challenges
 
@@ -12,3 +12,5 @@ NoSQL=Schema free and distributed system
 
 RDBMS-
 CAP-Consistency, Availability, Partition Tolerence
+
+C:\Windows\System32\cmd.exe
